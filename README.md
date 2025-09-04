@@ -7,7 +7,7 @@ I am pursuing an MSc in Computer Science at STAR Lab @ Harbin Institute of Techn
 I am specifically interested in:
 
 - 🤖AI for 🛠️SE
-- 👾Software Vulnerability
 - 🥽Extended Reality
+- 🖥️GUI Grounding & Testing
 
 Stay focused, stay dynamic.
